@@ -1,4 +1,4 @@
-📱 App React Native: Lista de Tarefas Offline
+## **📱 App React Native: Lista de Tarefas Offline**
 
 - Banco offline: SQLite ou WatermelonDB.
 - Sincronização: Firebase ou API Node.js/Java.
